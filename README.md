@@ -1,4 +1,6 @@
 # Random Color Generator
+https://sjsreehari.github.io/Random-Color-Generator/
+
 
 This project is a simple web-based random color generator. It allows users to generate a random color by clicking a button. The selected color is applied to a div and displayed as text for easy reference.
 
